@@ -22,7 +22,7 @@ Se incluyen:
 Tasa de suicidio:
 
 ```math
-\text{Tasa} = \left( \frac{\text{Suicidios}}{\text{Poblaci\u00f3n}} \right) \times 100.000
+\text{Tasa} = \left( \frac{\text{Suicidios}}{\text{Poblacion}} \right) \times 100.000
 ```
 
 ---
