@@ -9,7 +9,7 @@ Este proyecto contiene el análisis y visualización de la tasa promedio de suic
 - **`Tasa de Suicidios en Colombia`** El archivo `.ipynb` contiene todo el proceso de análisis, cargue y limpieza de datos, cálculos y visualización. También incluye explicaciones en celdas Markdown.
 
 ⚠️ **Nota:**  
-la carpeta Defunciones con sus archivos (csv) no fue incluido en el repositorio por su gran tamaño. Sin embargo, en el notebook se explica su procedencia, estructura esperada y cómo fue procesado. Esto permite replicar el análisis o ampliarlo con nuevos años si se cuenta con los datos.
+la carpeta Defunciones con sus archivos (csv) no fue incluido en el repositorio por su gran tamaño. Sin embargo, en el notebook (Tasa de Suicidios en Colombia.ipynb) se explica su procedencia, estructura esperada y cómo fue procesado. Esto permite replicar el análisis o ampliarlo con nuevos años si se cuenta con los datos.
 
 ## Fuentes de datos
 
